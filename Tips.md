@@ -17,6 +17,15 @@ print(Found_list)
 
 
 
+## 2. Output Screen
+``` python
+#화면 출력 확대
+pd.set_option('display.width',None)
+pd.set_option('display.columns',None)
+pd.set_option('display.rows',None)
 
+#줄바꿈 방지 to_string()
+print(train.describe().to_string())
+```
 
 
