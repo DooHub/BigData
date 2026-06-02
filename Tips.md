@@ -24,6 +24,8 @@ pd.set_option('display.width',None)
 pd.set_option('display.columns',None)
 pd.set_option('display.rows',None)
 
+#출력 양식
+pd.set_option('display.float_format','{:10f}'.format)
 #줄바꿈 방지 to_string()
 print(train.describe().to_string())
 ```
