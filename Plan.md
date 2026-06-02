@@ -6,7 +6,7 @@
 | 5/27 |   1회독 | PART 2 CHAPTER 05 머신러닝 실습(다중 분류)       | 다중 분류 구조, `predict_proba`, `classes_`, macro/micro/weighted 평가지표 개념 정리   | [V ] |
 | 5/28 |   1회독 | PART 2 CHAPTER 06 이진 분류 연습문제           | 당뇨병, 이직, 신용 예측 문제 풀이. 양성 클래스 위치, ROC-AUC, 제출 파일 생성 흐름 확인                 | [V] |
 | 5/29 |   1회독 | PART 2 CHAPTER 07~08 다중 분류/회귀 연습문제     | 다중 분류 3문제, 회귀 3문제 구조 파악. 문제 유형별 코드 템플릿 작성                                | [V] |
-| 5/30 |   1회독 | PART 3 CHAPTER 01~03                   | 가설검정, t-test, ANOVA, 카이제곱 검정. 귀무가설/대립가설, p-value 판정 기준 정리                | [ ] |
+| 5/30 |   1회독 | PART 3 CHAPTER 01~03                   | 가설검정, t-test, ANOVA, 카이제곱 검정. 귀무가설/대립가설, p-value 판정 기준 정리                | [V] |
 | 5/31 |   1회독 | PART 3 CHAPTER 04~06 + PART 4 기출 구조 확인 | 회귀분석, 로지스틱 회귀, 작업형3 연습문제, 최신 기출 구성 훑기. 1회독 종료 점검                         | [ ] |
 | 6/1  |   2회독 | PART 1 CHAPTER 02 판다스                  | `DataFrame`, `Series`, `loc`, `iloc`, 정렬, 필터링, 결측치 처리, 자료형 변환 복습         | [ ] |
 | 6/2  |   2회독 | PART 1 CHAPTER 02 판다스 심화               | `groupby`, `pivot_table`, `merge`, `concat`, `datetime`, 문자열 처리, 파생변수 생성 | [ ] |
