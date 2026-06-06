@@ -21,8 +21,8 @@ print(Found_list)
 ``` python
 #화면 출력 확대
 pd.set_option('display.width',None)
-pd.set_option('display.columns',None)
-pd.set_option('display.rows',None)
+pd.set_option('display.max_columns',None)
+pd.set_option('display.max_rows',None)
 
 #출력 양식
 pd.set_option('display.float_format','{:10f}'.format)
