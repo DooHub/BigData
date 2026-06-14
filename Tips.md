@@ -25,7 +25,7 @@ pd.set_option('display.max_columns',None)
 pd.set_option('display.max_rows',None)
 
 #출력 양식
-pd.set_option('display.float_format','{:10f}'.format)
+pd.set_option('display.float_format','{:.10f}'.format)
 #줄바꿈 방지 to_string()
 print(train.describe().to_string())
 ```
